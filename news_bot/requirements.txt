@@ -1,4 +1,0 @@
-vk-api
-feedparser
-beautifulsoup4
-pytz
